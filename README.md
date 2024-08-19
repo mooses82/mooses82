@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mooses82
-- 👀 I’m interested in Goatee
-- 🌱 I’m currently learning Python and Goatee's shit language
-
-
-Im a cold lad
-
-wanna chat and come flow tell a fella come save me your on the magic no mic no daily cant keep track i work so freely.
+- I'm Moose!
+- My goal is to simplify life and have code so everything imaginable!
+- 🤔 Intermediate Python Programmer🤔 
+- 📊 Using MongoDB for Code (I will Learn SQL 👀) 📊

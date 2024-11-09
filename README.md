@@ -1,4 +1,1 @@
-- I'm Moose!
-- My goal is to simplify life and have code so everything imaginable!
-- 🤔 Intermediate Python Programmer🤔 
-- 📊 Using MongoDB for Code (I will Learn SQL 👀) 📊
+
